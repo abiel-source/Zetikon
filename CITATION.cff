@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Zetikon"
+abstract: >-
+  Zetikon is a theoretical framework and software application for analyzing,
+  optimizing, compiling, and transforming algorithms. It is predicated on the
+  notion of tripartite representation equivalence insofar that an algorithm 
+  is equivalently represented as a text, system of equations, or geometry.
+  The geometry is an orthotope that is equivalent to the image of the so-called
+  master representation of an algorithm. The master representation of an algorithm
+  is constructed by a mathematical object called a loop-vector. The framing gives 
+  rise to several interesting properties such as reformulating algorithm complexity
+  analysis as factorizations of the induced orthotope's volume.
+type: software
+authors:
+  - family-names: "Kim"
+    given-names: "Abiel"
+repository-code: "https://github.com/abiel-source/Zetikon"
+license: AGPL-3.0-or-later
+version: "0.1.0"
+date-released: "2026-08-19"
+keywords:
+  - algorithm analysis
+  - computational complexity
+  - solution space
+  - discrete geometry
+  - factorization

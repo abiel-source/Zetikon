@@ -49,3 +49,13 @@ The master-iterator representation might look like:
 $X^1 = \{ sum(A) \ + \ sum(B)\}$
 
 Where the return value (solution) is a trivial case since the volume is precisely 1.
+
+<br>
+<hr>
+<br>
+
+Computation in the text representation does not appear to equal the computation in the search space.
+
+The distinction between a "loop vector" (search space, $\Xi$) and "loop literal" (text space, $\alpha$) is therefore well justified.
+
+The deeper relationship is hidden.
